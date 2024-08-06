@@ -1,0 +1,7 @@
+{
+  "name": "ui",
+  "module": "index.ts",
+  "devDependencies": {
+    "nx": "19.5.6"
+  }
+}
